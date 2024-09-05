@@ -9,7 +9,7 @@ This repository contains the code for a Django-based website designed to simplif
 - **Interactive Map:** Shows college locations and calculates distances from the student’s location using geolocation APIs.
 - **Comparison Tool:** A Python module is included for detailed college information and comparative graphs.
 
-## Deployment
+## Releases
 
 The website is currently live and accessible [here](https://eamcet-colleges.onrender.com/).
 
